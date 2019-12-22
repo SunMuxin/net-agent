@@ -1,0 +1,12 @@
+/.vagrant/
+/vendor/
+/notes.md
+/builder/
+/testing/demo/templates/
+/testing/demo/build/
+/testing/demo/pkg-build/
+/testing/test.exe
+/testing/.vagrant/
+/.glide/
+testing/vendor
+testing/hello/vendor
